@@ -3,22 +3,18 @@ FastAPI / API Server
 - fastapi                 # Framework for building REST APIs and WebSocket services
 - uvicorn[standard]       # ASGI server for running FastAPI applications
 - python-multipart        # Required for handling request body, form-data, and file uploads
-============================================================================================================
 
 Computer Vision / Math
 ============================================================================================================
 - opencv-python==4.9.0.80 # OpenCV (cv2) for video processing and image analysis
 - numpy==1.26.4           # Numerical computation and array operations (used with OpenCV and AI models)
-============================================================================================================
 
 AI / Model
 ============================================================================================================
 ultralytics             # YOLO model for object detection (e.g., basketball and players)
 mediapipe==0.10.9       # MediaPipe Pose for human pose estimation and motion analysis
-============================================================================================================
 
 Dev / Tunnel / Async
 ============================================================================================================
 pyngrok                 # Exposes the local FastAPI server to the public via ngrok
 nest_asyncio            # Enables nested asyncio event loops (used with uvicorn and ngrok)
-============================================================================================================
