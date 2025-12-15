@@ -17,13 +17,13 @@ Getting Started 📙
 Contains the file Server.py which is used for training exercises and running the server. The program usage is as follows:
 
     1. Download the required libraries for Server.py as listed in the file.
-    2. Download all 5 training exercise files from the Models folder and save them in the same folder as Server.py.
+    2. Download all 5 training exercise files from the Models folder and save them in the same folder as<br> Server.py.
     3. Download the BasketballDetect.pt file from the Models folder.
     4. Register and log in to Ngrok Web (https://ngrok.com).
     5. Go to Your Authtoken and click Copy Authtoken.
-    6. Open CMD or Windows PowerShell and enter the command: setx NGROK_AUTHTOKEN "your_authtoken_here" Example 
+    6. Open CMD or Windows PowerShell and enter the command: setx NGROK_AUTHTOKEN "your_authtoken_here"<br> Example 
        "NGROK_AUTHTOKEN "323506QfPGqLvDKJQTxdwPyv9Yp_5uzF4Ldp6QWeT3iVPRoHr"
-    7. Run the command python Server.py in the PyCharm Terminal (Public Ngrok URL will appear, which can be copied for
+    7. Run the command python Server.py in the PyCharm Terminal (Public Ngrok URL will appear, which can<br> be copied for
        use in the Application).
 
 
