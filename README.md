@@ -4,7 +4,9 @@ SKILLSNAP – AI Basketball Training Application
 
 Developed an application on the OutSystems low-code platform that integrates artificial intelligence to enhance the efficiency of basketball training analysis, using MediaPipe Pose for motion analysis and YOLOv11 for basketball detection from user-uploaded training videos.
 
-
+<p align="center">
+  <img src="https://github.com/DevAnons/SkillSnap/blob/main/Logo.jpg" width="250">
+</p>
 
 <h3 align="left">
 -- Server Folder -- 🚀
