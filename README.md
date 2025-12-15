@@ -8,10 +8,12 @@ Developed an application on the OutSystems low-code platform that integrates art
   <img src="https://github.com/DevAnons/SkillSnap/blob/main/Logo.jpg" width="250">
 </p>
 
-<h3 align="left">
--- Server Folder -- 🚀
-</h3>
+<h2 align="left">
+Getting Started 📙
+</h2>
 
+#### -- Server Folder -- 🚀
+---
 Contains the file Server.py which is used for training exercises and running the server. The program usage is as follows:
 
     1. Download the required libraries for Server.py as listed in the file.
@@ -25,7 +27,7 @@ Contains the file Server.py which is used for training exercises and running the
        use in the Application).
 
 
-### -- Models Folder -- 👾
+#### -- Models Folder -- 👾
 ---
 #### Contains the following files:
     1. BasketballDetect.pt – a trained model used for basketball detection.
@@ -37,7 +39,7 @@ Contains the file Server.py which is used for training exercises and running the
        3.4 Defense_video.py – for analyzing defense.
        3.5 Rebound_video.py – for analyzing rebounds.
 
-### -- Application Folder -- 📱
+#### -- Application Folder -- 📱
 ---
 #### Contains the OutSystems program named SkillSnap used to create the application. Program usage is as follows:
     1. Log in to OutSystems using a personal environment (create an account if you don’t have one).
