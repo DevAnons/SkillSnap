@@ -29,7 +29,7 @@ Contains the file Server.py which is used for training exercises and running the
 
 #### -- Models Folder -- 👾
 ---
-#### Contains the following files:
+Contains the following files:
     1. BasketballDetect.pt – a trained model used for basketball detection.
     2. yolov11.pt – a pretrained model for detecting human body key points.
     3. Five training exercise files:
@@ -41,7 +41,7 @@ Contains the file Server.py which is used for training exercises and running the
 
 #### -- Application Folder -- 📱
 ---
-#### Contains the OutSystems program named SkillSnap used to create the application. Program usage is as follows:
+Contains the OutSystems program named SkillSnap used to create the application. Program usage is as follows:
     1. Log in to OutSystems using a personal environment (create an account if you don’t have one).
     2. Replace the public Ngrok URL obtained from running Server.py 
        (example: "https://branchial-bronchoscopically-emersyn.ngrok-free.dev") in the following locations:
